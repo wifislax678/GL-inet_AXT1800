@@ -22,23 +22,13 @@ include:
 packages:
   - kmod-hwmon-pwmfan
   - wget-ssl
-  - luci-theme-argon
-  - luci-app-argon-config
   - luci-app-arpbind
   - luci-app-autoreboot
   - luci-app-ddns
-  - luci-app-ddnsto
   - luci-app-diskman
-  - luci-app-nlbwmon
+  - luci-app-passwall
   - luci-app-ramfree
-  - luci-app-serverchan
   - luci-app-ssr-plus
   - luci-app-transmission
-  - luci-app-unblockmusic
-  - luci-app-unblockneteasemusic-go
-  - luci-app-unblockneteasemusic
   - luci-app-upnp
-  - luci-app-vlmcsd
-  - luci-app-wol
-  - luci-app-wrtbwmon
   - luci-compat
